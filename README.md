@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
-![Cover Image](assets/EvilRDP.png){width=100%}
+![Cover Image](assets/EvilRDP.png)
 
 A Python-based educational toolkit for gaining access to Windows via RDP files. Designed for security research and penetration testing in authorized lab environments.
 
@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by Gemini Cyber Security's Youtube Video [Cyber Security - Initial Access via .RDP Phishing Attack on Windows](https://youtu.be/Z6oal5CsF_U?si=BNTcTeZne1JyZa2l)
+- Inspired by Gemini Cyber Security's Youtube Video - [Cyber Security - Initial Access via .RDP Phishing Attack on Windows](https://youtu.be/Z6oal5CsF_U?si=BNTcTeZne1JyZa2l)
 - Built for educational purposes in the information security community
 - Thanks to all contributors and security researchers
 
