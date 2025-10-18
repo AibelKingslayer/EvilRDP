@@ -1,8 +1,10 @@
-# EvilRDP - RDP Configuration Modifier
+# EvilRDP - A Red Team Tool for Initial Access
 
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+
+![Cover Image](assets/EvilRDP.png){width=100%}
 
 A Python-based educational toolkit for gaining access to Windows via RDP files. Designed for security research and penetration testing in authorized lab environments.
 
